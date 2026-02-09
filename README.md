@@ -8,4 +8,4 @@ Repositório com os scripts desenvolvidos para a disciplina de Python em Ciberse
 - **`recon.py`**: Estrutura de Classes (POO) simulando um scanner de portas básico.
 
 ---
-**Aluno:** Sanmir
+**Aluno:** Sanmir Gabriel

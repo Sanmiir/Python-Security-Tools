@@ -1,4 +1,4 @@
-# Atividades Pós-Graduação - Python
+# Atividades Pós-Graduação - Python Ofensivo
 
 Repositório com os scripts desenvolvidos para a disciplina de Python em Cibersegurança.
 
